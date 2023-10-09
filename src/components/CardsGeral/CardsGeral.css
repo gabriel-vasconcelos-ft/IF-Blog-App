@@ -1,0 +1,33 @@
+.card-tam-geral {
+  max-width: 19rem;
+  min-width: 19rem;
+  margin: auto auto;
+  max-height: 23rem;
+  min-height: 23rem;
+}
+
+.tam-text {
+  padding: 10px;
+  width: 300px;
+  overflow: hidden; /* Para esconder o texto que não cabe */
+  white-space: nowrap; /* Para evitar quebras de linha */
+  text-overflow: ellipsis;
+  max-height: 4rem;
+}
+
+.card-tam-img {
+  min-height: 11rem;
+  max-height: 11rem;
+  object-fit: cover;
+}
+
+.card-direction {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-column-gap: 5px;
+}
+
+.button-style{
+  margin-top: 1rem;
+  width: 100%;
+}

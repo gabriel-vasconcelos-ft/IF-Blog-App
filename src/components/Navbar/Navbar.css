@@ -1,0 +1,23 @@
+nav a img {
+    width: 90px;
+    padding: 0;
+}
+
+nav {
+    position: fixed !important;
+    top: 0;
+    z-index: 99;
+    width: 100%;
+}
+
+.borda{
+    border-radius: 20px 0px 0px 20px;
+}
+
+.borda2{
+    border-radius: 0px 20px 20px 0px;
+}
+
+.nav-mobile {
+    width: 100%;
+}

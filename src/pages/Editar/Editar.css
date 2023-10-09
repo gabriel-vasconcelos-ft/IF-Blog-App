@@ -1,0 +1,39 @@
+body{
+    background-color: rgba(150, 144, 144, 0.2);
+}
+
+.barraE{
+    height: 60px;
+    background-color: #000000;
+    position: fixed;
+    width: 100%;
+}
+
+.userE{
+    position: relative;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.fotoE{
+    width: 55px;
+}
+
+.texte{
+    font-size: 25px;
+    color: #000000;
+    padding-left: 1%;
+}
+
+.form-postE{
+    max-width: 800px;
+    min-width: 400px;
+    margin: auto auto;
+    font-size: 18px;
+}
+
+.bt-tme{
+    width: 7rem;
+    left: 43rem;
+    position: relative;
+}

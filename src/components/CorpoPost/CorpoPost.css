@@ -1,0 +1,45 @@
+.barra1 {
+  height: 60px;
+  background-color: #198754;
+  position: fixed!important;
+  width: 100%;
+  z-index: 1;
+
+}
+
+.titulo {
+  color: #198754;
+  padding: 4.5rem 0rem 0rem 0rem;
+  text-align: center;
+  position: relative;
+  font-size: 3rem;
+}
+
+.estilo{
+  text-align: center;
+  justify-content: space-around;
+}
+
+.img-principal{
+    position: relative;
+    min-width: 50rem;
+    max-width: 50rem;
+    max-height: 70rem;
+    margin-left: 35rem;
+    margin-bottom: 3rem;
+
+}
+
+.corpo-texto{
+    text-align: justify;
+    max-width: 85rem!important;
+    margin-left: 17rem;
+    margin-bottom: 5rem;
+}
+
+.comentario{
+    color: #198754;
+    text-align: center;
+    position: relative;
+    font-size: 2rem;
+}

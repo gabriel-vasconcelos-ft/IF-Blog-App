@@ -1,0 +1,42 @@
+body{
+    background-color: rgba(150, 144, 144, 0.2);
+}
+
+.barraP{
+    height: 60px;
+    background-color: #000000;
+    position: fixed;
+    width: 100%;
+}
+
+.userP{
+    position: relative;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.fotoP{
+    width: 55px;
+}
+
+.textp{
+    font-size: 25px;
+    color: #000000;
+    padding-left: 1%;
+}
+
+.form-postP{
+    max-width: 800px;
+    min-width: 400px;
+    margin: auto auto;
+    font-size: 18px;
+}
+
+.bt-tmp{
+    width: 7rem;
+}
+
+
+.buttondirectionP{
+    padding-left: 35.55rem;
+}

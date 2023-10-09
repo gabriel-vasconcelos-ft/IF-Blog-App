@@ -1,0 +1,59 @@
+body{
+    background-color: rgba(150, 144, 144, 0.2);
+}
+
+.barra{
+    height: 60px;
+    background-color: #000000;
+    position: fixed;
+    width: 100%;
+}
+
+.user{
+    position: relative;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.foto{
+    width: 55px;
+}
+
+.text2{
+    font-size: 25px;
+    color: #000000;
+    padding-left: 1%;
+}
+
+.form-post{
+    max-width: 800px;
+    min-width: 400px;
+    margin: auto auto;
+    font-size: 18px;
+}
+
+.bt-tm{
+    width: 7rem;
+}
+
+.esp-titulo{
+    width: 25rem;
+}
+
+.quill{
+    height: 30rem;
+    padding-bottom: 4rem;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.buttondirection{
+    padding-left: 35.55rem;
+}
+
+.alerta-post{
+    margin: 1rem auto  auto 90rem;
+    max-width: 31rem;
+    position: absolute;
+
+}
